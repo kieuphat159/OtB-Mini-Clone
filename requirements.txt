@@ -1,0 +1,5 @@
+requests \
+markdownify 
+openai 
+python-dotenv 
+pyyam
