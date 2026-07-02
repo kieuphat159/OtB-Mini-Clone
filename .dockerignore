@@ -1,0 +1,10 @@
+.env
+data/articles/
+.git/
+__pycache__/
+*.pyc
+test_*.py
+save_all.py
+.venv/
+README.md
+assets/
