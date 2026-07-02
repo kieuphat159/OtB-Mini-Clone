@@ -1,5 +1,5 @@
-requests \
-markdownify 
-openai 
-python-dotenv 
-pyyam
+requests
+markdownify
+openai
+python-dotenv
+pyyaml
